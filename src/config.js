@@ -5,9 +5,9 @@
 const config = {
   // ── Personal Info ──────────────────────────────────────────
   name: 'Rafli Triwijaya',
-  title: 'System Integration Engineer | IoT & Automation',
+  title: 'IoT and Embedded Engineer | IoT & Automation',
   email: 'Triwijaya.rafli@gmail.com',
-  phone: '6282312702104',
+  phone: '628512345678',
   location: 'Cimahi, West Java, Indonesia',
   linkedin: 'https://linkedin.com/in/rafli-triwijaya', // Replace with real URL
   githubUsername: 'raflitriwijaya',                     // Replace with real GitHub username

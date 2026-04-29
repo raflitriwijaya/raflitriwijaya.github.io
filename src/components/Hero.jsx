@@ -80,7 +80,7 @@ export default function Hero() {
               className="text-base sm:text-lg mb-2 font-mono tracking-wide"
               style={{ color: 'var(--color-gold)', fontFamily: 'JetBrains Mono, monospace' }}
             >
-              {'>'} System Integration Engineer | IoT &amp; Automation
+              {'>'} IoT and Embedded Engineer | IoT &amp; Automation
             </motion.p>
 
             {/* Location */}
